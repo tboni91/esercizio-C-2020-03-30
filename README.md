@@ -2,10 +2,20 @@
 
 Le specifiche dell'esercizio si trovano nel file 'specifiche.txt'.
 
-Se avete domande sulle specifiche, fatele nel gruppo telegram oppure postate una "Issue" su questo progetto (tramite Github).
+Se avete domande sulle specifiche, postate una "Issue" su questo progetto (tramite Github).
+
+Postare la soluzione: fate un FORK di questo progetto ed implementate la soluzione nella vostra repository.
+
+Quando avete risolto l'esercizio, fate una "pull request" su questa repository.
 
 
-Iscrivetevi a Gihub, fate un FORK di questo progetto ed implementate la soluzione nella vostra repository.
+ISTRUZIONI sull'uso di Github
 
-Quando avete risolto l'esercizio, potete postare il link alla vostra repository nel gruppo telegram oppure fare una "pull request".
+fork:
+
+https://guides.github.com/activities/forking/
+
+pull request:
+
+https://guides.github.com/activities/forking/#making-a-pull-request
 
